@@ -14,7 +14,7 @@ export class PortfolioDataService {
       tagline: 'Results-driven Software Engineer with hands-on experience building and maintaining Laravel-based web applications.'
     },
     about: {
-      bio: 'I am a results-driven Software Engineer with hands-on experience building and maintaining Laravel-based web applications. I am proficient in Laravel MVC architecture, Eloquent ORM, Blade templating, RESTful API integration, and MySQL database management. I am skilled at converting UI/UX designs into clean, maintainable code. Currently pursuing a Bachelor\'s in Information Technology (Expected 2026) and eager to deepen my expertise in Laravel while exploring React for modern full-stack development.',
+      bio: 'I am a results-driven Software Engineer with hands-on experience building and maintaining Laravel-based web applications. I am proficient in Laravel MVC architecture, Eloquent ORM, Blade templating, RESTful API integration, and MySQL database management. I am skilled at converting UI/UX designs into clean, maintainable code. I hold a Bachelors degree in Information Technology and am eager to deepen my expertise in Laravel while exploring React and Angular for modern full-stack development.',
       skills: [
         { name: 'Laravel', iconClass: 'devicon-laravel-plain' },
         { name: 'PHP', iconClass: 'devicon-php-plain' },
