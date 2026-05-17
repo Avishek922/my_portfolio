@@ -83,7 +83,7 @@ export class PortfolioDataService {
       {
         company: 'Lele Venture Pvt. Ltd. — Kupandol Kathmandu, Nepal',
         role: 'Junior Full Stack Laravel Developer ',
-        period: 'November 2025 - Present',
+        period: 'April 2026 - Present',
         description: [
           'Developed and maintained a HR Management System with role-based access control supporting multiple user roles including Super Admin, Admin, Employee, and Staff',
           'Built a dynamic Profile Module that allows each role to view and manage their own profile data with role-specific permissions and UI customization',
@@ -96,7 +96,7 @@ export class PortfolioDataService {
       {
         company: 'WebLight IT Solutions — India, Bangalore',
         role: 'Associate Software Engineer Intern',
-        period: '',
+        period: 'November 2025 - March 2026',
         description: [
           'Developed and maintained dynamic web applications using Laravel (MVC, Blade templates, Eloquent ORM) with MySQL as the primary database.',
           'Integrated third-party and internal RESTful APIs to connect frontend interfaces with backend services, ensuring reliable data flow.',
@@ -104,6 +104,17 @@ export class PortfolioDataService {
           'Wrote and optimized MySQL queries for data retrieval, updates, and relationship management across relational schemas.',
           'Participated in debugging, testing, and deployment workflows to maintain stable and reliable production releases.',
           'Collaborated with senior developers in an Agile team environment to deliver features on schedule.'
+        ]
+      },
+      {
+        company: 'WebLight IT Solutions — India, Bangalore',
+        role: 'Frontend Developer Intern',
+        period: 'November 2024 - August 2025',
+        description: [
+          'Developed responsive web interfaces using HTML5, CSS3, JavaScript, and Bootstrap across multiple client projects.',
+          'Collaborated with backend developers to integrate APIs and ensure seamless frontend-backend data flow',
+          ' Improved UI responsiveness and frontend performance contributing to smoother cross-device user experiences.',
+
         ]
       }
     ],
